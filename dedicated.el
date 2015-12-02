@@ -51,3 +51,4 @@
                   minor-mode-alist))))
 
 (provide 'dedicated)
+;;; dedicated.el ends here
