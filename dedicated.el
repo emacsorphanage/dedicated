@@ -40,6 +40,7 @@
   "Mode variable for dedicated minor mode.")
 (make-variable-buffer-local 'dedicated-mode)
 
+;;;###autoload
 (defun dedicated-mode (&optional arg)
   "Dedicated minor mode."
   (interactive "P")
